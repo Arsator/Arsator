@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Anish.
 
 <!--
 **Arsator/Arsator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a **Competitive Programmer**, **Machine Learning enthusiast** and **Android App Developer**. 
+
+##### My Skills 🛠⚒
+
+* ▶ Data Structures and Algorithms
+* ▶ Machine Learning
+* ▶ Android App Developement
+* ▶ C/C++, Java, Python, SQL
+* ▶ Networking
+* ▶ Database Management
+
+##### Links
+
+* 🧲 [Linkedin](https://www.linkedin.com/in/anish-kumar-jha-601361170/ "View Profile")
+* 🧲 [Codechef](https://www.codechef.com/users/anish_kr_jha "View Profile")
+* 🧲 [Hackerrank](https://www.hackerrank.com/Anish_Kumar_Jha "View Profile")
+* 🧲 [Hackerearth](https://www.hackerearth.com/@anish314 "View Profile")
