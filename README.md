@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm a **Competitive Programmer**, **Machine Learning enthusiast** and **Android App Developer**. 
 
-##### My Skills 🛠⚒
+##### **My Skills** 🛠⚒
 
 * ▶ Data Structures and Algorithms
 * ▶ Machine Learning
@@ -25,9 +25,9 @@ I'm a **Competitive Programmer**, **Machine Learning enthusiast** and **Android 
 * ▶ Networking
 * ▶ Database Management
 
-##### Links
+##### **Links** 🧲
 
-* 🧲 [Linkedin](https://www.linkedin.com/in/anish-kumar-jha-601361170/ "View Profile")
-* 🧲 [Codechef](https://www.codechef.com/users/anish_kr_jha "View Profile")
-* 🧲 [Hackerrank](https://www.hackerrank.com/Anish_Kumar_Jha "View Profile")
-* 🧲 [Hackerearth](https://www.hackerearth.com/@anish314 "View Profile")
+* [Linkedin](https://www.linkedin.com/in/anish-kumar-jha-601361170/ "View Profile")
+* [Codechef](https://www.codechef.com/users/anish_kr_jha "View Profile")
+* [Hackerrank](https://www.hackerrank.com/Anish_Kumar_Jha "View Profile")
+* [Hackerearth](https://www.hackerearth.com/@anish314 "View Profile")
