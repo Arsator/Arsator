@@ -28,6 +28,8 @@ I'm a **Competitive Programmer**, **Machine Learning enthusiast** and **Android 
 ##### **Links** 🧲
 
 * [Linkedin](https://www.linkedin.com/in/anish-kumar-jha-601361170/ "View Profile")
+* [Codeforces](https://codeforces.com/profile/anish_kr_jha "View Profile")
 * [Codechef](https://www.codechef.com/users/anish_kr_jha "View Profile")
+* [Leetcode](https://leetcode.com/Arsator/ "View Profile")
 * [Hackerrank](https://www.hackerrank.com/Anish_Kumar_Jha "View Profile")
 * [Hackerearth](https://www.hackerearth.com/@anish314 "View Profile")
