@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a **Competitive Programmer**, **Machine Learning enthusiast** and **Android App Developer**. 
+I'm a **Competitive Programmer**, **DevOps enthusiast**, **Machine Learning enthusiast** and **Android App Developer**. 
 
 ##### **My Skills** 🛠⚒
 
 * ▶ Data Structures and Algorithms
+* ▶ CI/CD
+* ▶ AWS
 * ▶ Machine Learning
 * ▶ Android App Developement
 * ▶ C/C++, Java, Python, SQL
