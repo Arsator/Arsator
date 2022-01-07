@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a **Competitive Programmer**, **DevOps enthusiast**, **Machine Learning enthusiast** and **Android App Developer**. 
+I'm a ***SDE Intern***, ***Competitive Programmer***, ***Machine Learning enthusiast*** and ***Android App Developer***. 
 
 ##### **My Skills** 🛠⚒
 
@@ -23,7 +23,7 @@ I'm a **Competitive Programmer**, **DevOps enthusiast**, **Machine Learning enth
 * ▶ AWS
 * ▶ Machine Learning
 * ▶ Android App Developement
-* ▶ C/C++, Java, Python, SQL
+* ▶ C/C++, Java, Python, JavaScript, NodeJs, HTML, CSS, SQL
 * ▶ Networking
 * ▶ Database Management
 
