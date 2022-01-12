@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a ***SDE Intern***, ***Competitive Programmer***, ***Machine Learning enthusiast*** and ***Android App Developer***. 
+I'm a ***Competitive Programmer***, ***Machine Learning enthusiast*** and ***Android App Developer***. 
 
 ##### **My Skills** 🛠⚒
 
